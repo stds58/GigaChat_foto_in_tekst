@@ -1,0 +1,47 @@
+
+# ignore all logs
+*.log
+
+# virtualenv
+.venv
+venv/
+ENV/
+.vscode
+
+# celery beat schedule file
+celerybeat-schedule
+
+# Django #
+__pycache__
+__pycache__/
+#migrations/
+#migrations/__pycache__/
+
+# IDE
+.idea/
+idea/
+
+
+
+# Environments
+tbc/.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# db
+db.sqlite3
+
+# Visual Studio Code #
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+
+/staticcollect/
