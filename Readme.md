@@ -7,7 +7,7 @@
 
     Клонируйте репозиторий:
 
-    git clone https://github.com/AKryshnia/FIC_task_20.git 
+    git clone https://github.com/stds58/GigaChat_foto_in_tekst.git
 
 
 в личном кабинете https://developers.sber.ru/studio/registration получите ключи
