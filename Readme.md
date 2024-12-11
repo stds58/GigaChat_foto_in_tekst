@@ -15,7 +15,7 @@
 
 ![img_1.png](img_1.png)
 
-создайте файл .venv и поместите в него постоянные, взятые из личного кабинете:
+создайте файл .env и поместите в него постоянные, взятые из личного кабинете:
 
     TOKEN_GIGACHAT = Client ID
     CLIENT_SECRET = Authorization key
