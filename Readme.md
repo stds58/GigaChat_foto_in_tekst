@@ -21,9 +21,10 @@
     TOKEN_GIGACHAT = Client ID
     CLIENT_SECRET = Authorization key
 
-в папке certificate лежат сертификаты минцЫфры. если код работать не будет, установите их на компьютер
+в папке certificate лежат сертификаты минцЫфры. если код работать не будет, установите их на компьютер с помощью команды
+(руководство https://www.gosuslugi.ru/crt)
 
-    https://www.gosuslugi.ru/crt
+    python -m pip install certifi
 
 установите зависимости
 
